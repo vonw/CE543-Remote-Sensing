@@ -7,6 +7,3 @@ Directories that contain Jupyter Notebooks
 - [Radiation](Radiation)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vonw/CE543-Remote-Sensing.git/master)
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/vonw/CE543-Remote-Sensing.git/master
