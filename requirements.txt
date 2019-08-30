@@ -1,6 +1,6 @@
 numpy==1.16.*
 matplotlib==3.*
 ephem
-proj==4.9.0
+proj4
 cartopy
 IPython
