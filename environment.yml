@@ -7,3 +7,4 @@ dependencies:
   - ephem
   - cartopy
   - IPython
+  - py6s
